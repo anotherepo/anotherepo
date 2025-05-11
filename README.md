@@ -1,7 +1,7 @@
 # Hi 👋, I'm anotherepo
 
 
-### Full-Stack Developer | Blockchain Enthusiast | Web2 + Web3 Engineer
+### Full-Stack Developer | Blockchain Enthusiast | Web2 + Web3 Engineeer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderszone899&label=Profile%20views&color=0e75b6&style=flat" alt="coderszone89" /> </p>
 
